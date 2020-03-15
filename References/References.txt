@@ -1,3 +1,10 @@
-opencv installation link - 
+OpenCv installation Links - 
 1. https://youtu.be/H5nGc8uhQaw
 2. https://youtu.be/4fRMGpFgAXc
+
+Python , TensorFlow, OpenCv object detection code Exploring Links-
+1.https://www.youtube.com/playlist?list=PLS1QulWo1RIa7D1O6skqDQ-JZ1GGHKK-K
+2.https://youtu.be/PNPHRDnpsW4
+3.https://youtu.be/43xPvB3QNL8
+4.https://youtu.be/crrm2ILQhxQ
+5.https://youtu.be/OnWIYI6-4Ss
